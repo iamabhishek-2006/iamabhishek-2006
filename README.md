@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Abhishek and I'm a ..., from Mordabad (utter pradesh)</p>
+<p align="left">My name is Abhishek , from Mordabad (uttar pradesh )</p>
 
 ###
 
