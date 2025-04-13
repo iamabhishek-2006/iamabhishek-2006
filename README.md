@@ -13,9 +13,9 @@
 <p align="left">✨ Creating amazing websites<br>📚 I'm currently learning ...MERN STACK DEVELOPMENT<br>🎯 Goals:  Acchive a good job<br>🎲 Fun fact: ...develop fun games</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/https://www.instagram.com/abhishekroy_321/?__pwa=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/abhishekroy_321/?__pwa=1" height="30" width="40" /></a>
+<a href="[https://instagram.com/https://www.instagram.com/abhishekroy_321/?__pwa=1](https://www.instagram.com/abhishekroy_321?igsh=dzRpZG5xaDJvMWcw)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="[https://www.instagram.com/abhishekroy_321/?__pwa=1](https://www.instagram.com/abhishekroy_321?igsh=dzRpZG5xaDJvMWcw)" height="30" width="40" /></a>
 </p>
-https://www.instagram.com/abhishekroy_321/?__pwa=1
+
 
 ###
 
