@@ -23,6 +23,14 @@
        alt="X (Twitter) Profile"
        height="30" width="40" />
 </a>
+<a href="https://x.com/Abhishek844590" target="_blank">
+  <svg align="center" height="30" width="40" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+    <path d="M18.244 2H21l-6.51 7.44L22.5 22h-6.99l-4.36-5.72L5.1 22H2.34l6.99-8.0L1.5 2h7.09l3.93 5.2L18.244 2zm-1.23 18h1.94L8.77 4H6.83l10.184 16z"
+          fill="white"
+          stroke="black"
+          stroke-width="1"/>
+  </svg>
+</a>
 
 
 </a>
