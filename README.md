@@ -18,8 +18,12 @@
 <a href="https://www.linkedin.com/in/abhishek-shrivastav-542152299" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
 </a>
 <a href="https://x.com/Abhishek844590" target="_blank">
-  <img align="center"    src="https://cdn.simpleicons.org/x"    alt="X (Twitter) Profile"    height="30" width="40" />
+  <img align="center"
+       src="https://cdn.simpleicons.org/x/FFFFFF/000000"
+       alt="X (Twitter) Profile"
+       height="30" width="40" />
 </a>
+
 
 </a>
 
