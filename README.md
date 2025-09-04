@@ -75,11 +75,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
 </a>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=emoji&size=30&duration=2000&pause=500&color=F75C7E&center=true&vCenter=true&width=500&height=50&lines=😀+😎+🚀+✨+🔥+🐍+💻" alt="Gitmoji Animation" />
-</p>
-
-
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/</a>  </p>
 </div>
@@ -88,3 +83,8 @@
 ![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamabhishek-2006&show_icons=true&theme=radical)
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamabhishek-2006&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="195" alt="languages graph"  />
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamabhishek-2006&theme=highcontrast)
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=emoji&size=30&duration=2000&pause=500&color=F75C7E&center=true&vCenter=true&width=500&height=50&lines=😀+😎+🚀+✨+🔥+🐍+💻" alt="Gitmoji Animation" />
+</p>
+
