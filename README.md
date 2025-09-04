@@ -84,14 +84,12 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamabhishek-2006&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="195" alt="languages graph"  />
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamabhishek-2006&theme=highcontrast)
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=emoji&size=30&duration=2000&pause=500&color=F75C7E&center=true&vCenter=true&width=500&height=50&lines=😀+😎+🚀+✨+🔥+🐍+💻" alt="Gitmoji Animation" />
-</p>
+
 <p align="center">
   <svg xmlns="http://www.w3.org/2000/svg" width="200" height="100">
-    <text x="50%" y="50%" font-size="50" text-anchor="middle" dominant-baseline="middle">
+    <text x="50%" y="50%" font-size="100" text-anchor="middle" dominant-baseline="middle">
       <tspan fill="#ff5733">
-        <animate attributeName="text" values="😀;😢;😂;😍;😎" dur="10s" repeatCount="indefinite"/>
+        <animate attributeName="text" values="😀;😊;😂;😍;😎" dur="10s" repeatCount="indefinite"/>
       </tspan>
     </text>
   </svg>
