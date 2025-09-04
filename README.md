@@ -87,9 +87,13 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=emoji&size=30&duration=2000&pause=500&color=F75C7E&center=true&vCenter=true&width=500&height=50&lines=😀+😎+🚀+✨+🔥+🐍+💻" alt="Gitmoji Animation" />
 </p>
-<a href="https://gitmoji.dev">
-  <img
-    src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square"
-    alt="Gitmoji"
-  />
-</a>
+<p align="center">
+  <svg xmlns="http://www.w3.org/2000/svg" width="200" height="100">
+    <text x="50%" y="50%" font-size="50" text-anchor="middle" dominant-baseline="middle">
+      <tspan fill="#ff5733">
+        <animate attributeName="text" values="😀;😢;😂;😍;😎" dur="10s" repeatCount="indefinite"/>
+      </tspan>
+    </text>
+  </svg>
+</p>
+
