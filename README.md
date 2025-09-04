@@ -86,16 +86,6 @@
 
 
 <p align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" width="200" height="100">
-    <text x="50%" y="50%" font-size="100" text-anchor="middle" dominant-baseline="middle">
-      <tspan fill="#ff5733">
-        <animate attributeName="text" values="😀;😊;😂;😍;😎" dur="10s" repeatCount="indefinite"/>
-      </tspan>
-    </text>
-  </svg>
-</p>
-
-<p align="center">
   <svg xmlns="http://www.w3.org/2000/svg" width="300" height="200">
     <text x="50%" y="50%" font-size="100" text-anchor="middle" dominant-baseline="middle">
       😀
