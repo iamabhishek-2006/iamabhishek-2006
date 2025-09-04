@@ -97,3 +97,18 @@
   </svg>
 </p>
 
+<p align="center">
+  <svg xmlns="http://www.w3.org/2000/svg" width="300" height="200">
+    <text x="50%" y="50%" font-size="100" text-anchor="middle" dominant-baseline="middle">
+      😀
+      <animate attributeName="opacity" values="1;0" dur="2s" begin="0s" repeatCount="indefinite" />
+    </text>
+    <text x="50%" y="50%" font-size="100" text-anchor="middle" dominant-baseline="middle">
+      😢
+      <animate attributeName="opacity" values="0;1;0" dur="6s" begin="2s" repeatCount="indefinite" />
+    </text>
+    <text x="50%" y="50%" font-size="100" text-anchor="middle" dominant-baseline="middle">
+      😂
+      <animate attributeName="opacity" values="0;1;0" dur="6s" begin="4s" repeatCount="indefinite" />
+    </text>
+
