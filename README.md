@@ -13,7 +13,43 @@
 
 <p align="left">✨ Creating amazing websites<br>📚 MERN STACK DEVELOPMENT<br>🎯 Goals:  upgrade and develop new skills<br>🎲 Fun fact: web dev focussed on React/Node - turning ideas into working apps</p>
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+
+<h2 align="center">🌐 CONNECT NETWORK</h2>
+
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<h2 align="center">⚙️ TECH STACK</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,java,git,github"/>
+</p>
+
+---
+
+<h2 align="center">📊 DEVELOPMENT STATUS</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FOCUS-FULL%20STACK-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LEARNING-DSA-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GOAL-AI%20ENGINEER-purple?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Consistency-Daily%20Learning-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Mindset-Builder-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Stage-Student-blue?style=for-the-badge"/>
+</p>
+
+<!-- <p align="left">
 <a href="https://www.instagram.com/abhishekroy_321?igsh=dzRpZG5xaDJvMWcw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="[https://www.instagram.com/abhishekroy_321/?__pwa=1](https://www.instagram.com/abhishekroy_321?igsh=dzRpZG5xaDJvMWcw)" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/abhishek-shrivastav-542152299" target="_blank">
   <img align="center"
@@ -23,7 +59,7 @@
 </a>
 
 
-<a href="https://x.com/Abhishek844590" target="_blank">
+<!-- <a href="https://x.com/Abhishek844590" target="_blank">
   <img align="center"
        src="https://cdn.simpleicons.org/x/FFFFFF/000000"
        alt="X (Twitter) Profile"
@@ -35,11 +71,11 @@
           fill="white"
           stroke="black"
           stroke-width="1"/>
-  </svg>
-</a>
+  </svg> -->
+<!-- </a> --> -->
 
 
-</a>
+<!-- </a>
 
 </p>
 
@@ -78,7 +114,7 @@
 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/</a>  </p>
-</div>
+</div> -->
 
 ###
 ![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamabhishek-2006&show_icons=true&theme=radical)
