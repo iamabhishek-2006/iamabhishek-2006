@@ -1,5 +1,5 @@
 
-<h1 align="left">Hola 👋 I'm Abhishek</h1>
+<!-- <h1 align="left">Hola 👋 I'm Abhishek</h1>
 
 ###
 
@@ -11,8 +11,31 @@
 
 ###
 
-<p align="left">✨ Creating amazing websites<br>📚 MERN STACK DEVELOPMENT<br>🎯 Goals:  upgrade and develop new skills<br>🎲 Fun fact: web dev focussed on React/Node - turning ideas into working apps</p>
-<h3 align="left">Connect with me:</h3>
+<p align="left">✨ Creating amazing websites<br>📚 MERN STACK DEVELOPMENT<br>🎯 Goals:  upgrade and develop new skills<br>🎲 Fun fact: web dev focussed on React/Node - turning ideas into working apps</p> -->
+
+<h1 align="center">Hey 👋 I'm Abhishek</h1>
+
+<p align="center">
+  🚀 Passionate BCA Student | 💻 Aspiring Full Stack Developer  
+</p>
+
+---
+
+<h2 align="left">👨‍💻 About Me</h2>
+
+<p align="left">
+Hi, I'm <b>Abhishek</b> from <b>Moradabad, Uttar Pradesh</b>.  
+I enjoy building modern and responsive web applications and continuously improving my development skills.
+</p>
+
+<ul>
+  <li>✨ I love creating clean and user-friendly websites</li>
+  <li>📚 Currently learning <b>MERN Stack Development</b></li>
+  <li>🎯 Goal: To upgrade my skills and build real-world projects</li>
+  <li>⚡ Fun Fact: I enjoy working with <b>React & Node.js</b> to turn ideas into real applications</li>
+</ul>
+
+<!-- <h3 align="left">Connect with me:</h3> -->
 
 <h2 align="center">🌐 CONNECT NETWORK</h2>
 
