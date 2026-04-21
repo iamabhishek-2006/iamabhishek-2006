@@ -1,18 +1,3 @@
-
-<!-- <h1 align="left">Hola 👋 I'm Abhishek</h1>
-
-###
-
-<p align="left">My name is Abhishek , from Mordabad (uttar pradesh )</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating amazing websites<br>📚 MERN STACK DEVELOPMENT<br>🎯 Goals:  upgrade and develop new skills<br>🎲 Fun fact: web dev focussed on React/Node - turning ideas into working apps</p> -->
-
 <h1 align="center">Hey 👋 I'm Abhishek</h1>
 
 <p align="center">
@@ -35,16 +20,23 @@ I enjoy building modern and responsive web applications and continuously improvi
   <li>⚡ Fun Fact: I enjoy working with <b>React & Node.js</b> to turn ideas into real applications</li>
 </ul>
 
-<!-- <h3 align="left">Connect with me:</h3> -->
-
 <h2 align="center">🌐 CONNECT NETWORK</h2>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/abhishek-shrivastav-542152299">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  
+  <a href="mailto:abhishekshrivastav5920@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  
+  <a href="https://x.com/Abhishek844590">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.instagram.com/abhishek_dev_1">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
