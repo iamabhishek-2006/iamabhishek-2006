@@ -54,7 +54,7 @@ I enjoy building modern and responsive web applications and continuously improvi
 
 <p align="center">
   <img src="https://img.shields.io/badge/FOCUS-FULL%20STACK-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LEARNING-DSA-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LEARNING-Aptitude-orange?style=for-the-badge"/>
   <!-- <img src="https://img.shields.io/badge/GOAL-AI%20ENGINEER-purple?style=for-the-badge"/> -->
 </p>
 
