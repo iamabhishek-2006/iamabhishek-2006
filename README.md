@@ -15,7 +15,7 @@ I enjoy building modern and responsive web applications and continuously improvi
 
 <ul>
   <li>✨ I love creating clean and user-friendly websites</li>
-  <li>📚 Currently learning <b>MERN Stack Development</b></li>
+  <li>📚 works on <b>MERN Stack Development</b></li>
   <li>🎯 Goal: To upgrade my skills and build real-world projects</li>
   <li>⚡ Fun Fact: I enjoy working with <b>React & Node.js</b> to turn ideas into real applications</li>
 </ul>
