@@ -57,6 +57,95 @@ I enjoy building modern and responsive web applications and continuously improvi
   <img src="https://img.shields.io/badge/LEARNING-Aptitude-orange?style=for-the-badge"/>
   <!-- <img src="https://img.shields.io/badge/GOAL-AI%20ENGINEER-purple?style=for-the-badge"/> -->
 </p>
+export default function Example() {
+    return (
+        <section className="flex flex-col items-center justify-center px-4 md:px-0">
+            <h2 className="text-4xl/12 font-bold text-gray-800 max-w-md text-center">Trusted by world’s leading companies</h2>
+            <div className="flex flex-wrap items-center justify-center gap-3 max-w-3xl mt-14">
+                <div className="grid place-content-center aspect-square size-15 bg-gray-50 border border-gray-200 rounded-md">
+                    <img src="https://raw.githubusercontent.com/prebuiltui/prebuiltui/main/assets/companyLogo/mark/Airbnb.svg"
+                        alt="Logo" />
+                </div>
+                <div className="grid place-content-center aspect-square size-15 bg-gray-50 border border-gray-200 rounded-md">
+                    <img src="https://raw.githubusercontent.com/prebuiltui/prebuiltui/main/assets/companyLogo/mark/Figma.svg"
+                        alt="Logo" />
+                </div>
+                <div className="grid place-content-center aspect-square size-15 bg-gray-50 border border-gray-200 rounded-md">
+                    <img src="https://raw.githubusercontent.com/prebuiltui/prebuiltui/main/assets/companyLogo/mark/CloudFlare.svg"
+                        alt="Logo" />
+                </div>
+                <div className="grid place-content-center aspect-square size-15 bg-gray-50 border border-gray-200 rounded-md">
+                    <img src="https://raw.githubusercontent.com/prebuiltui/prebuiltui/main/assets/companyLogo/mark/Discord.svg"
+                        alt="Logo" />
+                </div>
+                <div className="grid place-content-center aspect-square size-15 bg-gray-50 border border-gray-200 rounded-md">
+                    <img src="https://raw.githubusercontent.com/prebuiltui/prebuiltui/main/assets/companyLogo/mark/Dropbox.svg"
+                        alt="Logo" />
+                </div>
+                <div className="grid place-content-center aspect-square size-15 bg-gray-50 border border-gray-200 rounded-md">
+                    <img src="https://raw.githubusercontent.com/prebuiltui/prebuiltui/main/assets/companyLogo/mark/GoogleAnalytics.svg"
+                        alt="Logo" />
+                </div>
+                <div className="grid place-content-center aspect-square size-15 bg-gray-50 border border-gray-200 rounded-md">
+                    <img src="https://raw.githubusercontent.com/prebuiltui/prebuiltui/main/assets/companyLogo/mark/Dribbble.svg"
+                        alt="Logo" />
+                </div>
+                <div className="grid place-content-center aspect-square size-15 bg-gray-50 border border-gray-200 rounded-md">
+                    <img src="https://raw.githubusercontent.com/prebuiltui/prebuiltui/main/assets/companyLogo/mark/GitHub.svg"
+                        alt="Logo" />
+                </div>
+                <div className="grid place-content-center aspect-square size-15 bg-gray-50 border border-gray-200 rounded-md">
+                    <img src="https://raw.githubusercontent.com/prebuiltui/prebuiltui/main/assets/companyLogo/mark/Postman.svg"
+                        alt="Logo" />
+                </div>
+                <div className="grid place-content-center aspect-square size-15 bg-gray-50 border border-gray-200 rounded-md">
+                    <img src="https://raw.githubusercontent.com/prebuiltui/prebuiltui/main/assets/companyLogo/mark/Reddit.svg"
+                        alt="Logo" />
+                </div>
+                <div className="grid place-content-center aspect-square size-15 bg-gray-50 border border-gray-200 rounded-md">
+                    <img src="https://raw.githubusercontent.com/prebuiltui/prebuiltui/main/assets/companyLogo/mark/Microsoft.svg"
+                        alt="Logo" />
+                </div>
+                <div className="grid place-content-center aspect-square size-15 bg-gray-50 border border-gray-200 rounded-md">
+                    <img src="https://raw.githubusercontent.com/prebuiltui/prebuiltui/main/assets/companyLogo/mark/GoogleAds.svg"
+                        alt="Logo" />
+                </div>
+                <div className="grid place-content-center aspect-square size-15 bg-gray-50 border border-gray-200 rounded-md">
+                    <img src="https://raw.githubusercontent.com/prebuiltui/prebuiltui/main/assets/companyLogo/mark/GoDaddy.svg"
+                        alt="Logo" />
+                </div>
+                <div className="grid place-content-center aspect-square size-15 bg-gray-50 border border-gray-200 rounded-md">
+                    <img src="https://raw.githubusercontent.com/prebuiltui/prebuiltui/main/assets/companyLogo/mark/Google.svg"
+                        alt="Logo" />
+                </div>
+                <div className="grid place-content-center aspect-square size-15 bg-gray-50 border border-gray-200 rounded-md">
+                    <img src="https://raw.githubusercontent.com/prebuiltui/prebuiltui/main/assets/companyLogo/mark/GitLab.svg"
+                        alt="Logo" />
+                </div>
+                <div className="grid place-content-center aspect-square size-15 bg-gray-50 border border-gray-200 rounded-md">
+                    <img src="https://raw.githubusercontent.com/prebuiltui/prebuiltui/main/assets/companyLogo/mark/Pinterest.svg"
+                        alt="Logo" />
+                </div>
+                <div className="grid place-content-center aspect-square size-15 bg-gray-50 border border-gray-200 rounded-md">
+                    <img src="https://raw.githubusercontent.com/prebuiltui/prebuiltui/main/assets/companyLogo/mark/Framer.svg"
+                        alt="Logo" />
+                </div>
+                <div className="grid place-content-center aspect-square size-15 bg-gray-50 border border-gray-200 rounded-md">
+                    <img src="https://raw.githubusercontent.com/prebuiltui/prebuiltui/main/assets/companyLogo/mark/Vercel.svg"
+                        alt="Logo" />
+                </div>
+                <div className="grid place-content-center aspect-square size-15 bg-gray-50 border border-gray-200 rounded-md">
+                    <img src="https://raw.githubusercontent.com/prebuiltui/prebuiltui/main/assets/companyLogo/mark/Spotify.svg"
+                        alt="Logo" />
+                </div>
+                <div className="grid place-content-center aspect-square size-15 bg-gray-50 border border-gray-200 rounded-md">
+                    <img src="https://raw.githubusercontent.com/prebuiltui/prebuiltui/main/assets/companyLogo/mark/Spline.svg"
+                        alt="Logo" />
+                </div>
+            </div>
+        </section>
+    );
+};
 
 <p align="center">
   <img src="https://img.shields.io/badge/Consistency-Daily%20Learning-brightgreen?style=for-the-badge"/>
