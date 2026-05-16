@@ -59,8 +59,8 @@ I enjoy building modern and responsive web applications and continuously improvi
 </p>
 export default function Example() {
     return (
-        <section className="flex flex-col items-center justify-center px-4 md:px-0">
-            <h2 className="text-4xl/12 font-bold text-gray-800 max-w-md text-center">Trusted by world’s leading companies</h2>
+        <section className="flex  items-center justify-center px-4 md:px-0">
+            <!-- <h2 className="text-4xl/12 font-bold text-gray-800 max-w-md text-center">Trusted by world’s leading companies</h2> -->
             <div className="flex flex-wrap items-center justify-center gap-3 max-w-3xl mt-14">
                 <div className="grid place-content-center aspect-square size-15 bg-gray-50 border border-gray-200 rounded-md">
                     <img src="https://raw.githubusercontent.com/prebuiltui/prebuiltui/main/assets/companyLogo/mark/Airbnb.svg"
