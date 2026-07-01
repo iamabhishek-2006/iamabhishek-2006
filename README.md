@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 I'm Abhishek</h1>
 
 <p align="center">
-  🚀 Passionate BCA Student | 💻 Aspiring Full Stack Developer  
+  🚀 Passionate BCA Student | 💻 Aspiring MERN Stack Developer  
 </p>
 
 ---
