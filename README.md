@@ -10,7 +10,7 @@
 
 <p align="left">
 Hi, I'm <b>Abhishek</b> from <b>Moradabad, Uttar Pradesh</b>.  
-I enjoy building modern and responsive web applications and continuously improving my development skills.
+I enjoy building modern and responsive web applications with clean UI design .
 </p>
 
 <ul>
