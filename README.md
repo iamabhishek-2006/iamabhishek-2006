@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 I'm Abhishek</h1>
 
 <p align="center">
-  🚀<h3 align="center">A passionate full stack webdevelopment  from India</h3> 
+  🚀<h3 align="center">A passionate full stack web development from India</h3> 
 </p>
 
 ---
@@ -53,7 +53,7 @@ I enjoy building modern and responsive web applications with clean UI design .
 
 <p align="center">
   <img src="https://img.shields.io/badge/FOCUS-FULL%20STACK-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LEARNING-Aptitude-orange?style=for-the-badge"/>
+  <!-- <img src="https://img.shields.io/badge/LEARNING-Aptitude-orange?style=for-the-badge"/> -->
   <!-- <img src="https://img.shields.io/badge/GOAL-AI%20ENGINEER-purple?style=for-the-badge"/> -->
 </p>
 
