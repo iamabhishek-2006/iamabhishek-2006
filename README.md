@@ -53,15 +53,15 @@ I enjoy building modern and responsive web applications with clean UI design .
 
 <p align="center">
   <img src="https://img.shields.io/badge/FOCUS-FULL%20STACK-blue?style=for-the-badge"/>
-  <!-- <img src="https://img.shields.io/badge/LEARNING-Aptitude-orange?style=for-the-badge"/> -->
+  <img src="https://img.shields.io/badge/LEARNING-Aptitude-orange?style=for-the-badge"/>
   <!-- <img src="https://img.shields.io/badge/GOAL-AI%20ENGINEER-purple?style=for-the-badge"/> -->
 </p>
 
-<!-- <p align="center"> -->
-  <!-- <img src="https://img.shields.io/badge/Consistency-Daily%20Learning-brightgreen?style=for-the-badge"/> -->
+ <p align="center"> 
+  <img src="https://img.shields.io/badge/Consistency-Daily%20Learning-brightgreen?style=for-the-badge"/>
   <!-- <img src="https://img.shields.io/badge/Mindset-Builder-orange?style=for-the-badge"/> -->
   <!-- <img src="https://img.shields.io/badge/Stage-Student-blue?style=for-the-badge"/> -->
-<!-- </p> -->
+ </p> 
 
 
 
